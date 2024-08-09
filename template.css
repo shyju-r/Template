@@ -1,0 +1,98 @@
+
+.nav{
+    background-color: white;
+}
+.grey{
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.grey:hover{
+    filter: grayscale(0%);
+}
+.carousel-caption{
+    margin-bottom: 140px;
+}
+#lapp{
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 30px;
+    padding-bottom: 50px
+}
+#brief{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+   padding-right: 70px;
+}
+#calen{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 150px;
+}
+.lapp{
+    padding-bottom: 30px;
+}
+.hh{
+    color: #19CF2B;
+}
+.font{
+    font-family:Verdana;
+    color: rgb(145, 139, 139);
+}.word{
+    color: rgb(170, 170, 170);
+}
+#about{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+.sp{
+    width: 150px;
+}
+.ser{
+    width: 80px;
+    margin-bottom: 20px;
+}
+#serv{
+    padding-top:70px ;
+    padding-bottom:70px ;
+    background-color: white;
+    border: 10px solid  rgb(243, 243, 243);
+    text-align: center;
+}
+#greee{
+padding-top: 60px;
+padding-bottom: 60px;
+padding-right:100px ;
+padding-left: 100px;
+}
+#get{
+    padding-top: 100px;
+}
+.card{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#send{
+margin-left: 100px;
+}
+#map{
+    padding: 30px;
+    border-top:4px solid #19CF2B;
+    border-bottom: 4px solid #19CF2B;
+}
+#map2{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 53px;
+    border-top:4px solid #19CF2B;
+    border-bottom: 4px solid #19CF2B;
+}
+.last{
+    width: 40px;
+    padding: 2px;
+}
